@@ -6,3 +6,6 @@ scikit-learn
 requests
 seaborn
 plotly
+mlxtend
+dtreeviz
+pandas-datareader
